@@ -2,14 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 # Freelance
 
 [My freelance Hub](./another-page.html).
-
-There should be whitespace between paragraphs.
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Experiences
 
@@ -24,9 +19,9 @@ Work experiences. I focused on obtaining Development skills related to Data Scie
 > * Market understanding - contextual data analysis & price drivers
 > * Clients interactions
 > * Constraint optimization
-```js
+
 Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
-```
+
 
 
 ### SafeHear
