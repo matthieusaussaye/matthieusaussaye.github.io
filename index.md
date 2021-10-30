@@ -4,59 +4,110 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Freelance
+
+[My freelance Hub](./another-page.html).
 
 There should be whitespace between paragraphs.
-
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Experiences
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Work experiences. I focused on obtaining Development skills related to Data Science. I am fond of Entrepreunership & startups : in this context, I created my own entreupreneriale podcast (Radio Plaisir).
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Datapred
 
-### Header 3
 
+> Time series machine learning project management :
+> * Price forecasting - procurement strategy optimization
+> * Market understanding - contextual data analysis & price drivers
+> * Clients interactions
+> * Constraint optimization
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
+### SafeHear
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+> Project management, responsible of improving the voice processing algorithm :
+> * Litterature research, communication and implementation
+> * Interactions with researchers
+> * Customer study
 
-##### Header 5
+> Strategic advicing, business planning for a young start-up :
+> * Initiation of regulatory and normative intelligence
+> * Participation at the first fundraising
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### NXP
 
-###### Header 6
+> Initiation to QA ML engineering on NFC signal features
+> * Learning NFC Technology
+> * Improvement on a anomaly detection algorithm (Machine Learning : KNN)
+> * Education of engineers to Machine Learning (UML Diagram)
+> * Scikit-learn & UI
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# Education
+
+> Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]
+
+> * Applied Data Science (kafka, spark, pandas, sql..)
+> * Deep Learning (Pytorch & Python Packaging)
+> * Machine Learning (Scikit-learn)
+> * Distributed Information Systems
+> * Signal Processing for Communications
+
+> Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]
+
+> Signal Processing & Computer Science :
+> * Signal Processing
+> * Electronics
+> * Programming (C | Matlab)
+
+> Management of innovation (Alternating Semester) :
+> * Innovation Strategy
+> * Marketing, GrowthHacking
+> * Funding of innovation
+> * Business Intelligence
+> * Courses put into practice on the context of a young Start-Up (safehear)
+
+# Projects
+
+### Github projects.
+
+> to complete
+
+### Stochastic route planner (EPFL) - [Link to videb](https://www.youtube.com/watch?v=Yy0noW0KA8k&feature=youtu.be).
+
+
+> - Preprocessing of SBB (Swiss Railways) data. Pandas
+> - Graph modelling and shortest path algorithm.
+> - Use of route certainty based on the gaussian distribution of transport times between real and SBB forecasts. (Kafka, Spark).
+
+### Constraint Optimization based on Machine Learning for Saipol traders
+
+> Constraint optimization for traders (Datapred)
+> - Mathematical translation of customer constraints.
+> - Business Intelligence extraction of financial data.
+> - Price forecasting and model tuning using sequential Machine Learning (Pandas, Scikit, SQL).
+> - Constraint optimization with OR-Tools.
+> - Providing meaningful Dashboard to the customer.
+
+### Laboratory of Signal Processing - EPFL
+
+> Semester Project with LTS5 (Medical Image Processing Laboratory)
+> * Tuning of a neural network aimed to distinguish tumors regarding ultrasound images.
+> * The architecture was based on the MNIST one
+
+###### Graduation
+
+| Diploma          | Grades          |
+|:-----------------|:----------------|
+| Engineer         | 13.89/20        |
+| Bachelor Maths   | 14/20           |
+| Bac Scientifique | 14/20           | 
+
 
 ### There's a horizontal rule below this.
 
