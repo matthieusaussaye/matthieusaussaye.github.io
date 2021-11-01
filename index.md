@@ -4,7 +4,7 @@ layout: default
 
 # Data Science Projects
 
-[My freelance Hub](./projects.html).
+[My projects Hub](./projects.html).
 
 # Freelance
 
