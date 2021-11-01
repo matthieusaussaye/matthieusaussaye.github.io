@@ -2,14 +2,13 @@
 layout: default
 ---
 
-# Freelance
+# Data Science Projects
 
 [My freelance Hub](./freelance.html).
 
-# Youtube
+# Freelance
 
-[My Youtube Channel](https://www.youtube.com/channel/UCLUgCto6HzK2Dcrc9Trx17g).
-**Soon**
+[My freelance Hub](./freelance.html).
 
 # Intro
 
@@ -119,3 +118,8 @@ Semester Research Project with LTS5 (Medical Image Processing Laboratory)
 | Bachelor Maths   | good grade       |
 | Bac Scientifique | good grade       | 
 | English : Bullats| C1               | 
+
+# Youtube
+
+[My Youtube Channel](https://www.youtube.com/channel/UCLUgCto6HzK2Dcrc9Trx17g).
+**Soon**
