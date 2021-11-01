@@ -13,7 +13,7 @@ layout: default
 
 # Experiences
 
-
+- My previous experience at Datapred as well as my personal attraction for Data Science and Mathematics have developed a strong attraction for real-world applied Data Science projects that aim to generate value using state-of-the-art Machine Learning techniques and finely selected data.
 
 - My Engineering journey focused on obtaining development and communications skills related to Data Science. I am fond of Entrepreunership environment : in this context, I created my own entrepreuneurial podcast [Radio Plaisir](https://www.youtube.com/channel/UCMYQsRyZQ1tSosW9qF9N4zg).
 
@@ -27,7 +27,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB, Spark, Hado
 
 ### Datapred
 
-**Time series machine learning project management :**
+Time series machine learning project management :
 > * Price forecasting - procurement strategy optimization
 > * Market understanding - contextual data analysis & price drivers
 > * Clients interactions
@@ -35,18 +35,19 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB, Spark, Hado
 
 ### SafeHear
 
-**Project management, responsible of improving the voice processing algorithm :**
+Project management, responsible of improving the voice processing algorithm :
 > * Litterature research, communication and implementation
 > * Interactions with researchers
 > * Customer study
 
-**Strategic advicing, business planning for a young start-up :**
+Strategic advicing, business planning for a young start-up :
 > * Initiation of regulatory and normative intelligence
 > * Participation at the first fundraising
 
 ### NXP
 
-**Initiation to MAchine Learning engineering on NFC signal features**
+Initiation to Machine Learning engineering on NFC signal features
+
 > * Improvement on a anomaly detection algorithm (Machine Learning : KNN)
 > * Explanation of Machine Learning concepts to engineers Machine Learning (UML Diagram)
 > * Deployment of a graphic tool to make the usage easier.
@@ -54,7 +55,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB, Spark, Hado
 
 # Education
 
-**Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]**
+Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]
 
 > * Applied Data Science (kafka, spark, pandas, sql..)
 > * Deep Learning (Pytorch & Python Packaging)
@@ -62,7 +63,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB, Spark, Hado
 > * Distributed Information Systems
 > * Signal Processing for Communications
 
-**Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]**
+Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]
 
 ######  Signal Processing & Computer Science :
 > * Signal Processing
@@ -80,7 +81,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB, Spark, Hado
 
 ### Link to the following projects
 
-[You may find all my projects here](https://github.com/matthieusaussaye/Clustering-Movielens/commits?author=matthieusaussaye).
+You may find all my projects [here](https://github.com/matthieusaussaye/Clustering-Movielens/commits?author=matthieusaussaye).
 
 ### Github projects.
 
@@ -103,7 +104,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB, Spark, Hado
 
 ### Laboratory of Signal Processing - EPFL
 
-**Semester Research Project with LTS5 (Medical Image Processing Laboratory)**
+Semester Research Project with LTS5 (Medical Image Processing Laboratory)
 > * Tuning of a neural network aimed to distinguish tumors regarding ultrasound images.
 > * The architecture was based on the MNIST one
 
