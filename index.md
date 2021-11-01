@@ -11,7 +11,7 @@ layout: default
 [My Youtube Channel](https://www.youtube.com/channel/UCLUgCto6HzK2Dcrc9Trx17g).
 **Soon**
 
-# Experiences
+# Intro
 
 - My previous experience at Datapred as well as my personal attraction for Data Science and Mathematics have developed a strong attraction for real-world applied Data Science projects that aim to generate value using state-of-the-art Machine Learning techniques and finely selected data.
 
@@ -24,6 +24,8 @@ layout: default
 ```
 Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB, Spark, Hadoop
 ```
+
+# Experiences
 
 ### Datapred
 
