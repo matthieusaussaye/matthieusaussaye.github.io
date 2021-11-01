@@ -4,7 +4,11 @@ layout: default
 
 # Freelance
 
-[My freelance Hub](./another-page.html).
+[My freelance Hub](./freelance.html).
+
+# Youtube
+
+[My Youtube Hub](./youtube.html).
 
 # Experiences
 
@@ -22,7 +26,6 @@ I'm actually working on a new project which consists of creating a french youtub
 > * Constraint optimization
 
 Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
-
 
 
 ### SafeHear
@@ -72,13 +75,13 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 
 ### Link to the following projects
 
-[You may find all my projects here](https://www.youtube.com/watch?v=Yy0noW0KA8k&feature=youtu.be)
+[You may find all my projects here](./projects.html).
 
 ### Github projects.
 
 > to complete
 
-### Stochastic route planner (EPFL) - [Link to videb](https://www.youtube.com/watch?v=Yy0noW0KA8k&feature=youtu.be).
+### Stochastic route planner (EPFL) - [Link to video](https://www.youtube.com/watch?v=Yy0noW0KA8k&feature=youtu.be).
 
 
 > - Preprocessing of SBB (Swiss Railways) data. Pandas
