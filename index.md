@@ -8,13 +8,14 @@ layout: default
 
 # Experiences
 
-Work experiences. I focused on obtaining Development skills related to Data Science. I am fond of Entrepreunership & startups : in this context, I created my own entreupreneriale podcast (Radio Plaisir).
+Work experiences. I focused on obtaining development skills related to Data Science. I am fond of Entrepreunership & startups : in this context, I created my own entrepreuneurial podcast (Radio Plaisir).
+I'm actually working on a new project which consists of creating a french youtube channel based on popularising the Data Science.
 
 
 ### Datapred
 
 
-> Time series machine learning project management :
+##### Time series machine learning project management :
 > * Price forecasting - procurement strategy optimization
 > * Market understanding - contextual data analysis & price drivers
 > * Clients interactions
@@ -26,26 +27,26 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 
 ### SafeHear
 
-> Project management, responsible of improving the voice processing algorithm :
+##### Project management, responsible of improving the voice processing algorithm :
 > * Litterature research, communication and implementation
 > * Interactions with researchers
 > * Customer study
 
-> Strategic advicing, business planning for a young start-up :
+##### Strategic advicing, business planning for a young start-up :
 > * Initiation of regulatory and normative intelligence
 > * Participation at the first fundraising
 
 ### NXP
 
-> Initiation to QA ML engineering on NFC signal features
-> * Learning NFC Technology
+##### Initiation to MAchine Learning engineering on NFC signal features
 > * Improvement on a anomaly detection algorithm (Machine Learning : KNN)
-> * Education of engineers to Machine Learning (UML Diagram)
+> * Explanation of Machine Learning concepts to engineers Machine Learning (UML Diagram)
+> * Deployment of a graphic tool to make the usage easier.
 > * Scikit-learn & UI
 
 # Education
 
-> Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]
+##### Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]
 
 > * Applied Data Science (kafka, spark, pandas, sql..)
 > * Deep Learning (Pytorch & Python Packaging)
@@ -53,14 +54,14 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 > * Distributed Information Systems
 > * Signal Processing for Communications
 
-> Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]
+##### Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]
 
-> Signal Processing & Computer Science :
+######  Signal Processing & Computer Science :
 > * Signal Processing
 > * Electronics
-> * Programming (C | Matlab)
+> * Programming (C, Matlab)
 
-> Management of innovation (Alternating Semester) :
+###### Management of innovation (Alternating Semester) :
 > * Innovation Strategy
 > * Marketing, GrowthHacking
 > * Funding of innovation
@@ -68,6 +69,10 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 > * Courses put into practice on the context of a young Start-Up (safehear)
 
 # Projects
+
+### Link to the following projects
+
+[You may find all my projects here](https://www.youtube.com/watch?v=Yy0noW0KA8k&feature=youtu.be)
 
 ### Github projects.
 
@@ -82,7 +87,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 
 ### Constraint Optimization based on Machine Learning for Saipol traders
 
-> Constraint optimization for traders (Datapred)
+##### Constraint optimization for traders (Datapred)
 > - Mathematical translation of customer constraints.
 > - Business Intelligence extraction of financial data.
 > - Price forecasting and model tuning using sequential Machine Learning (Pandas, Scikit, SQL).
@@ -91,79 +96,20 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 
 ### Laboratory of Signal Processing - EPFL
 
-> Semester Project with LTS5 (Medical Image Processing Laboratory)
+###### Semester Project with LTS5 (Medical Image Processing Laboratory)
 > * Tuning of a neural network aimed to distinguish tumors regarding ultrasound images.
 > * The architecture was based on the MNIST one
 
 ###### Graduation
 
-| Diploma          | Grades          |
-|:-----------------|:----------------|
-| Engineer         | 13.89/20        |
-| Bachelor Maths   | 14/20           |
-| Bac Scientifique | 14/20           | 
+| Diploma          | Grades           |
+|:-----------------|:-----------------|
+| Engineer         | good enough grade|
+| Bachelor Maths   | good grade       |
+| Bac Scientifique | good grade       | 
+| English : Bullats| C1               | 
 
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+End of the resume.
 ```
