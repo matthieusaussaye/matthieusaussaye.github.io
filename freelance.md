@@ -6,8 +6,8 @@ I want to help others to make the right decisions, data-driven decisions
 
 # SERVICES
 
-> As a freelance data analyst and data scientist, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
-> I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, Python and Tableau for my data projects.
+ As a freelance data analyst and data scientist, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
+ I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, Python and Tableau for my data projects.
 
 # Data analysis
 I am specialized in analyzing data. Results, trends and recommendations are clearly presented in reports or tools.
