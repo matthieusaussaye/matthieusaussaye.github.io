@@ -20,10 +20,11 @@ Get more value from your data with prediction models and machine learning techni
 
 # Dashboards
 Dashboards show the most recent results in an interactive way. By clicking and drilling, you will examine trends and patterns yourself.
-(example)
+[exemple](./visual_cmb.html).
 
 # Front-end web developer
 As a web developer, I help to design and create the perfect website for starters and freelancers. The website is optimized for desktop and smartphone.
 (example)
+
 
 [come back to the portfolio](./)
