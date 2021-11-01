@@ -30,6 +30,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB, Spark, Hado
 ### Datapred
 
 Time series machine learning project management :
+
 > * Price forecasting - procurement strategy optimization
 > * Market understanding - contextual data analysis & price drivers
 > * Clients interactions
@@ -38,11 +39,13 @@ Time series machine learning project management :
 ### SafeHear
 
 Project management, responsible of improving the voice processing algorithm :
+
 > * Litterature research, communication and implementation
 > * Interactions with researchers
 > * Customer study
 
 Strategic advicing, business planning for a young start-up :
+
 > * Initiation of regulatory and normative intelligence
 > * Participation at the first fundraising
 
@@ -57,7 +60,7 @@ Initiation to Machine Learning engineering on NFC signal features
 
 # Education
 
-Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]
+### Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]
 
 > * Applied Data Science (kafka, spark, pandas, sql..)
 > * Deep Learning (Pytorch & Python Packaging)
@@ -65,14 +68,16 @@ Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]
 > * Distributed Information Systems
 > * Signal Processing for Communications
 
-Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]
+### Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]
 
-######  Signal Processing & Computer Science :
+Signal Processing & Computer Science :
+
 > * Signal Processing
 > * Electronics
 > * Programming (C, Matlab)
 
-###### Management of innovation (Alternating Semester) :
+Management of innovation (Alternating Semester) :
+
 > * Innovation Strategy
 > * Marketing, GrowthHacking
 > * Funding of innovation
@@ -84,10 +89,6 @@ Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]
 ### Link to the following projects
 
 You may find all my projects [here](https://github.com/matthieusaussaye/Clustering-Movielens/commits?author=matthieusaussaye).
-
-### Github projects.
-
-> to complete
 
 ### Stochastic route planner (EPFL) - [Link to video](https://www.youtube.com/watch?v=Yy0noW0KA8k&feature=youtu.be).
 
