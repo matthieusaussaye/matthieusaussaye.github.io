@@ -4,7 +4,7 @@ layout: default
 
 # Data Science Projects
 
-[My freelance Hub](./freelance.html).
+[My freelance Hub](./projects.html).
 
 # Freelance
 
@@ -107,10 +107,11 @@ You may find all my projects [here](https://github.com/matthieusaussaye/Clusteri
 ### Laboratory of Signal Processing - EPFL
 
 Semester Research Project with LTS5 (Medical Image Processing Laboratory)
+
 > * Tuning of a neural network aimed to distinguish tumors regarding ultrasound images.
 > * The architecture was based on the MNIST one
 
-###### Graduation
+Graduation
 
 | Diploma          | Grades           |
 |:-----------------|:-----------------|
