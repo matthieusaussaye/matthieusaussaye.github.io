@@ -8,40 +8,45 @@ layout: default
 
 # Youtube
 
-[My Youtube Hub](./youtube.html).
+[My Youtube Channel](https://www.youtube.com/channel/UCLUgCto6HzK2Dcrc9Trx17g).
+**Soon**
 
 # Experiences
 
-Work experiences. I focused on obtaining development skills related to Data Science. I am fond of Entrepreunership & startups : in this context, I created my own entrepreuneurial podcast (Radio Plaisir).
-I'm actually working on a new project which consists of creating a french youtube channel based on popularising the Data Science.
 
+
+- My Engineering journey focused on obtaining development and communications skills related to Data Science. I am fond of Entrepreunership environment : in this context, I created my own entrepreuneurial podcast [Radio Plaisir](https://www.youtube.com/channel/UCMYQsRyZQ1tSosW9qF9N4zg).
+
+- I'm actually working on a new project which consists of creating a french youtube channel based on popularising the Data Science.
+
+# Languages
+
+```
+Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB, Spark, Hadoop
+```
 
 ### Datapred
 
-
-##### Time series machine learning project management :
+**Time series machine learning project management :**
 > * Price forecasting - procurement strategy optimization
 > * Market understanding - contextual data analysis & price drivers
 > * Clients interactions
 > * Constraint optimization
 
-Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
-
-
 ### SafeHear
 
-##### Project management, responsible of improving the voice processing algorithm :
+**Project management, responsible of improving the voice processing algorithm :**
 > * Litterature research, communication and implementation
 > * Interactions with researchers
 > * Customer study
 
-##### Strategic advicing, business planning for a young start-up :
+**Strategic advicing, business planning for a young start-up :**
 > * Initiation of regulatory and normative intelligence
 > * Participation at the first fundraising
 
 ### NXP
 
-##### Initiation to MAchine Learning engineering on NFC signal features
+**Initiation to MAchine Learning engineering on NFC signal features**
 > * Improvement on a anomaly detection algorithm (Machine Learning : KNN)
 > * Explanation of Machine Learning concepts to engineers Machine Learning (UML Diagram)
 > * Deployment of a graphic tool to make the usage easier.
@@ -49,7 +54,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 
 # Education
 
-##### Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]
+**Ecole polytechnique fédérale de Lausanne (EPFL) : [Master's Degree]**
 
 > * Applied Data Science (kafka, spark, pandas, sql..)
 > * Deep Learning (Pytorch & Python Packaging)
@@ -57,7 +62,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 > * Distributed Information Systems
 > * Signal Processing for Communications
 
-##### Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]
+**Ecole polytechnique de Grenoble (Grenoble-INP : Phelma) : [Engineer's Degree]**
 
 ######  Signal Processing & Computer Science :
 > * Signal Processing
@@ -75,7 +80,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 
 ### Link to the following projects
 
-[You may find all my projects here](./projects.html).
+[You may find all my projects here](https://github.com/matthieusaussaye/Clustering-Movielens/commits?author=matthieusaussaye).
 
 ### Github projects.
 
@@ -90,7 +95,6 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 
 ### Constraint Optimization based on Machine Learning for Saipol traders
 
-##### Constraint optimization for traders (Datapred)
 > - Mathematical translation of customer constraints.
 > - Business Intelligence extraction of financial data.
 > - Price forecasting and model tuning using sequential Machine Learning (Pandas, Scikit, SQL).
@@ -99,7 +103,7 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 
 ### Laboratory of Signal Processing - EPFL
 
-###### Semester Project with LTS5 (Medical Image Processing Laboratory)
+**Semester Research Project with LTS5 (Medical Image Processing Laboratory)**
 > * Tuning of a neural network aimed to distinguish tumors regarding ultrasound images.
 > * The architecture was based on the MNIST one
 
@@ -111,8 +115,3 @@ Python, Docker, Pandas, Plotly, Scikit-Learn, Selinon, AWS, MangoDB
 | Bachelor Maths   | good grade       |
 | Bac Scientifique | good grade       | 
 | English : Bullats| C1               | 
-
-
-```
-End of the resume.
-```
