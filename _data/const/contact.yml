@@ -37,6 +37,9 @@ youtube:
 facebook:
   icon: "fa fa-facebook"
   url: "https://www.facebook.com"
+agency:
+    icon: "fa fa-external-link"
+    url: "https://www.sigmapulse.ch"
 # add your new contact
 # your_new_contact:
 #   icon: "fa fa-font"
