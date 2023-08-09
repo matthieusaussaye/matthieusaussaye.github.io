@@ -49,11 +49,11 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "https://github.com/matthieusaussaye"
+  - github: "matthieusaussaye"
   - email: "matthieu.saussaye@sigmapulse.ch"
-  - linkedin: "https://www.linkedin.com/in/matthieu-saussaye-0023a114a/"
-  - twitter: "https://twitter.com/Matthieussy"
-  - agency: "http://sigmapulse.ch"
+  - linkedin: "matthieu-saussaye-0023a114a/"
+  - twitter: "Matthieussy"
+  - agency: ""
   #- mastodon: ""
   #- instagram: ""
   #- youtube: ""
