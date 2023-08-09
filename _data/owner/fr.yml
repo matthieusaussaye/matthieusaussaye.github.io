@@ -3,10 +3,10 @@
 ###########################################################
 # This is your brand name
 # This is your brand name
-brand: "Matthieu Saussaye - Data Science Specialist"
+brand: "Matthieu Saussaye"
 
 # text below the brand name
-brand_sub_text: "CEO sigmapulse.ch"
+brand_sub_text: "CEO sigmapulse.ch | Data Science Specialist"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Matthieu Saussaye"
@@ -14,9 +14,9 @@ name: "Matthieu Saussaye"
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "$site_welcome"
+  #top_header_line1: "$site_welcome"
   # if commented, top header will be a single line
-  top_header_line2: "$site_brand"
+  #top_header_line2: "$site_brand"
 
 # about page sub title
 about:
@@ -49,11 +49,11 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "https://github.com/matthieusaussaye"
-  - email: "matthieu.saussaye@sigmapulse.ch"
-  - linkedin: "https://www.linkedin.com/in/matthieu-saussaye-0023a114a/"
-  - twitter: "https://twitter.com/Matthieussy"
-  - agency: "http://sigmapulse.ch"
+  github: "https://github.com/matthieusaussaye"
+  email: "matthieu.saussaye@sigmapulse.ch"
+  linkedin: "https://www.linkedin.com/in/matthieu-saussaye-0023a114a/"
+  twitter: "https://twitter.com/Matthieussy"
+  agency: "http://sigmapulse.ch"
   #- mastodon: ""
   #- instagram: ""
   #- youtube: ""
