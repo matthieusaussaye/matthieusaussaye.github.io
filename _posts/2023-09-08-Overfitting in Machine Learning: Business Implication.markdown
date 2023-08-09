@@ -16,7 +16,7 @@ img: ":lavaux_2000.jpg"
 #comments_disable: true
 
 # publish date
-date: 2023-09-10 11:97:06 +0200
+date: 2023-09-10 11:07:06 +0200
 
 # seo
 # if not specified, date will be used.
