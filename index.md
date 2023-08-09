@@ -1,4 +1,4 @@
----
+_---
 layout: home
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_home
@@ -42,4 +42,4 @@ img: ":home-heading.jpg"
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
-{{ website_info_text_second }}
+{{ website_info_text_second }}_

@@ -41,54 +41,60 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "Links"
-    info: "Your Links page description."
+    header: "My projects & learnings"
+    info: "CEO of sigmapulse.ch, the data science agency for ambitious companies which aim for operational excellence, I share here my learnings in from my passion for Data Science and entrepreneurship."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
+    - title: "Companies"
+      type: id_companies
       color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
+    - title: "My companies"
+      type: id_projects
       color: "#F4A273"
-    - title: "Programming"
+    - title: "Programming tips"
       type: id_programming
       color: "#62b462"
-
+    - title: "My path in entrepreneurship"
+      type: id_entrepreneurship
+      color: "#62b462"
+      
   list:
-    -
     # programming
     - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
+      title: "Medium articles"
+      url: "https://medium.com/@saussayematthieu50"
+      info: "Explaining how data science could create huge value for businesses."
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid
-      title: "Jekyll Cheat Sheet"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
-    - type: id_jekyiiliquid
-      title: "Liquid for Designers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Liquid for Designers wiki on GitHub."
-    - type: id_jekyiiliquid
+    # companies
+    - type: id_companies
+      title: "Co-Founder of la carte green"
+      url: "https://lacartegreen.ch/"
+      info: "Help +40 000 students in Lausanne to buy eco-responsible products for less"
+    - type: id_companies
+      title: "CEO of sigmapulse.ch"
+      url: "https://sigmapulse.ch/"
+      info:  "We help companies extract value from data using artificial intelligence algorithms and tailored dashboard software"
+  
+    # talk entrepreneurship
+    - type: id_entrepreneurship
       title: "Liquid for Programmers"
       url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
       info: "Liquid for Programmers wiki on GitHub."
-    - type: id_jekyiiliquid
-      title: "Liquid Reference"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub."
-
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
+    - type: id_entrepreneurship
+      title: "Radio Plaisir - Interviewing the top entrepreneur from the Alps"
+      url: "https://www.youtube.com/@radioplaisir838"
+      info: "Liquid for Designers wiki on GitHub."
+    - type: id_entrepreneurship
+      title: "Sponsoring from a great cantonal bank"
+      url: "https://www.linkedin.com/posts/bcv_vaud-ucreate3-projets-activity-6991385342201188352-FLzs/"
+      info: "BCV, the cantonal bank of Vaud is supporting our project la carte green"
+    - type: id_entrepreneurship
+      title: "Sustainability talk"
+      url: "https://agenda.unil.ch/display/1677070115795"
+      info: "I participated to several talks in front of the global sustainability community in Lausanne"
+    - type: id_entrepreneurship
+      title: "Sustainability talk"
+      url: "https://www.linkedin.com/feed/update/urn:li:activity:7074778002621911041/"
+      info: "I inspired Lausanne students to launch their own project in sustainability at Entrepreneur club"
 ---
