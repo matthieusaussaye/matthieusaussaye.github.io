@@ -139,12 +139,6 @@ home:
   new_posts_title: New Articles
   new_posts_show_more_button: View More ...
 
-# for archives layout
-archives:
-  title: Archive
-  button_name: Archive
-  page_header: Archive
-
 # for about layout
 about:
   title: About
