@@ -49,9 +49,6 @@ page_data:
     - title: "Companies"
       type: id_companies
       color: "gray"
-    - title: "My companies"
-      type: id_projects
-      color: "#F4A273"
     - title: "Programming tips"
       type: id_programming
       color: "#62b462"
@@ -62,39 +59,35 @@ page_data:
   list:
     # programming
     - type: id_programming
-      title: "Medium articles"
-      url: "https://medium.com/@saussayematthieu50"
+      title: "Prevent overfitting in Machine Learning"
+      url: "https://medium.com/@saussayematthieu50/overfitting-in-machine-learning-business-implications-71de37b7a90a"
       info: "Explaining how data science could create huge value for businesses."
 
     # companies
     - type: id_companies
-      title: "Co-Founder of la carte green"
+      title: "Co-Founder @ la carte green"
       url: "https://lacartegreen.ch/"
-      info: "Help +40 000 students in Lausanne to buy eco-responsible products for less"
+      info: "Help +40 000 students in Lausanne to buy eco-responsible products with the first student sustainable card"
     - type: id_companies
-      title: "CEO of sigmapulse.ch"
+      title: "Founder @ sigmapulse.ch"
       url: "https://sigmapulse.ch/"
       info:  "We help companies extract value from data using artificial intelligence algorithms and tailored dashboard software"
   
     # talk entrepreneurship
     - type: id_entrepreneurship
-      title: "Liquid for Programmers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Liquid for Programmers wiki on GitHub."
-    - type: id_entrepreneurship
-      title: "Radio Plaisir - Interviewing the top entrepreneur from the Alps"
+      title: "Radio Plaisir - Entrepreneurship Podcast"
       url: "https://www.youtube.com/@radioplaisir838"
-      info: "Liquid for Designers wiki on GitHub."
+      info: "Interviewing the top entrepreneur from the Alps region."
     - type: id_entrepreneurship
-      title: "Sponsoring from a great cantonal bank"
+      title: "Key speaker for BCV"
       url: "https://www.linkedin.com/posts/bcv_vaud-ucreate3-projets-activity-6991385342201188352-FLzs/"
       info: "BCV, the cantonal bank of Vaud is supporting our project la carte green"
     - type: id_entrepreneurship
-      title: "Sustainability talk"
+      title: "Key speaker @ Sustainability 101 talk"
       url: "https://agenda.unil.ch/display/1677070115795"
       info: "I participated to several talks in front of the global sustainability community in Lausanne"
     - type: id_entrepreneurship
-      title: "Sustainability talk"
+      title: "Key speaker @ Entrepreneur Club"
       url: "https://www.linkedin.com/feed/update/urn:li:activity:7074778002621911041/"
       info: "I inspired Lausanne students to launch their own project in sustainability at Entrepreneur club"
 ---
