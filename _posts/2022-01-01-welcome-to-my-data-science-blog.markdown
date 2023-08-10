@@ -11,7 +11,7 @@ category: jekyll
 # multiple tag entries are possible
 tags: [Informative]
 # thumbnail image for post
-img: ":home-heading.jpg"
+img: ":projects-heading.jpg"
 # disable comments on this page
 #comments_disable: true
 
