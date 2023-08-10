@@ -76,33 +76,15 @@ one of the most stunning areas of Switzerland. This region, renowned for its exc
 was rightfully listed as a UNESCO World Heritage site in 2007. Here, in this unique terrain,
 you create distinguished red wines, embodying the very spirit of this special place.
 
-#### Blockquote
-
-> **William Shakespeare**, Let me not to the marriage of true minds
-> Admit impediments. Love is not love
-> Which alters when it alteration finds,
-> Or bends with the remover to remove.
-> O no, it is an ever-fixed mark
-> That looks on tempests and is never shaken;
-> It is the star to every wand'ring barque,
-> Whose worth's unknown, although his height be taken.
-> Love's not Time's fool, though rosy lips and cheeks
-> Within his bending sickle's compass come;
-> Love alters not with his brief hours and weeks,
-> But bears it out even to the edge of doom.
-> If this be error and upon me proved,
-> I never writ, nor no man ever loved.
-
 
 ![such a lovely place](:lavaux_2000.jpg){:data-align="center"}
-The beautiful Lavaux vineyards, Lausanne. Image by author{:data-align="center"}
+<p style="text-align: center;">The beautiful Lavaux vineyards, Lausanne. Image by author</p>
 
 As I am myself living in Lausanne, I am in love with this region,
 and particularly fan of the wine tasting we could have with a stunning view !
 We will use a dataset which has 12 dimensions and containing the composition & quality of 1599 samples.
 It is the kaggle wine quality sample dataset.
 
-#
 ```python
 import plotly
 import pandas as pd
@@ -135,12 +117,13 @@ df_test = df.tail(599)
 #### Wine quality Dataset from Kaggle
 
 | fixed acidity | volatile acidity (left align) | residual sugar (right align) | ... | quality |
-|---------------|:------------------------------|-----------------------------:|-----|---------|
-| 9.4           | 0.68                          |                          2.7 | ... | 3       |
-| 7.9           | 0.58                          |                          2.3 | ... | 3       |
-| 11.1          | 0.52                          |                          2.7 | ... | 2       |
-| 6.2           | 0.3                           |                          3.8 | ... | 4       |
-1599 rows x 13 columns: Wine Quality Dataset from Kaggle {:data-align="center"}
+|---------------|-------------------------------|------------------------------|-----|---------|
+| 9.4           | 0.68                          | 2.7                          | ... | 3       |
+| 7.9           | 0.58                          | 2.3                          | ... | 3       |
+| 11.1          | 0.52                          | 2.7                          | ... | 2       |
+| 6.2           | 0.3                           | 3.8                          | ... | 4       |
+
+<p style="text-align: center;"> 1599 rows x 13 columns: Wine Quality Dataset from Kaggle</p>
 
 In our approach, we predict the quality score of wine samples
 (between 0 and 5) by training on 1000 data points and predicting on 599.
