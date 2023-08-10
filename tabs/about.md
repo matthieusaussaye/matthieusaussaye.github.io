@@ -36,9 +36,17 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+<!-- outline-start -->
 
-{%- include util/auto-content-generator.liquid -%}
+You will find in this blog useful learning about data science and especially how you can use it to generate real business value.
+
+<!-- outline-end -->
+
+Check out the [My Linkedin Page][linkedin-page] for more useful tips on how to get value from machine learning and data. If you have questions, you can meet me by [booking an apointment][calendly-page].
+
+[linkedin-page]: https://www.linkedin.com/in/matthieu-saussaye-0023a114a/
+[calendly-page]: https://calendly.com/matthieu-saussaye/30min
+
 {{ website_info_text_first }}
 
 {{ website_info_text_second }}
