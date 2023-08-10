@@ -51,7 +51,7 @@ page_data:
       color: "gray"
     - title: "Programming tips"
       type: id_programming
-      color: "#62b462"
+      color: "#blue"
     - title: "My path in entrepreneurship"
       type: id_entrepreneurship
       color: "#62b462"
@@ -65,23 +65,19 @@ page_data:
 
     # companies
     - type: id_companies
-      title: "Co-Founder @ la carte green"
-      url: "https://lacartegreen.ch/"
-      info: "Help +40 000 students in Lausanne to buy eco-responsible products with the first student sustainable card"
-    - type: id_companies
       title: "Founder @ sigmapulse.ch"
       url: "https://sigmapulse.ch/"
       info:  "We help companies extract value from data using artificial intelligence algorithms and tailored dashboard software"
-  
+    - type: id_companies
+      title: "Co-Founder @ la carte green"
+      url: "https://lacartegreen.ch/"
+      info: "Help +40 000 students in Lausanne to buy eco-responsible products with the first student sustainable card"
+
     # talk entrepreneurship
-    - type: id_entrepreneurship
-      title: "Radio Plaisir - Entrepreneurship Podcast"
-      url: "https://www.youtube.com/@radioplaisir838"
-      info: "Interviewing the top entrepreneur from the Alps region."
     - type: id_entrepreneurship
       title: "Key speaker for BCV"
       url: "https://www.linkedin.com/posts/bcv_vaud-ucreate3-projets-activity-6991385342201188352-FLzs/"
-      info: "BCV, the cantonal bank of Vaud is supporting our project la carte green"
+      info: "BCV, the cantonal bank of Vaud is the main partner of our project la carte green"
     - type: id_entrepreneurship
       title: "Key speaker @ Sustainability 101 talk"
       url: "https://agenda.unil.ch/display/1677070115795"
@@ -90,4 +86,8 @@ page_data:
       title: "Key speaker @ Entrepreneur Club"
       url: "https://www.linkedin.com/feed/update/urn:li:activity:7074778002621911041/"
       info: "I inspired Lausanne students to launch their own project in sustainability at Entrepreneur club"
+    - type: id_entrepreneurship
+      title: "Radio Plaisir - Entrepreneurship Podcast"
+      url: "https://www.youtube.com/@radioplaisir838"
+      info: "Interviewing the top entrepreneur from the Alps region."
 ---
