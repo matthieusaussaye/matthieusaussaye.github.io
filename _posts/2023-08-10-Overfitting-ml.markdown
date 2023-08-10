@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_OverfittingBusiness
+lng_pair: id_overfitting
 title: "Overfitting in Machine Learning: Business Implication"
 
 # post specific
