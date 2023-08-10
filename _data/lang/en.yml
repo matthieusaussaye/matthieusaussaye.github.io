@@ -167,7 +167,7 @@ privacy-policy:
 constants:
   greetings: Hello
   welcome: Welcome
-  sample: Sample
+  sample: Data Science
 
 # for contact form
 contact_form:

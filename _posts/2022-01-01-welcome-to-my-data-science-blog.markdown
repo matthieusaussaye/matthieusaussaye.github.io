@@ -9,7 +9,7 @@ author: Matthieu
 # multiple category is not supported
 category: jekyll
 # multiple tag entries are possible
-tags: [jekyll, example post, sample, test]
+tags: [Informative]
 # thumbnail image for post
 img: ":home-heading.jpg"
 # disable comments on this page
