@@ -5,7 +5,6 @@ title: "Overfitting in Machine Learning: Business Implication"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Matthieu Saussaye
 # multiple category is not supported
 category: Machine Learning
 # multiple tag entries are possible
