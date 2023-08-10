@@ -49,9 +49,9 @@ page_data:
     - title: "Companies"
       type: id_companies
       color: "gray"
-    - title: "Programming tips"
+    - title: "Programming"
       type: id_programming
-      color: "#blue"
+      color: "blue"
     - title: "My path in entrepreneurship"
       type: id_entrepreneurship
       color: "#62b462"
