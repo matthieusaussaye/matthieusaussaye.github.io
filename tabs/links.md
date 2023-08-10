@@ -42,7 +42,7 @@ lng_pair: id_links
 page_data:
   main:
     header: "My projects & learnings"
-    info: "CEO of sigmapulse.ch, the data science agency for ambitious companies which aim for operational excellence, I share here my learnings in from my passion for Data Science and entrepreneurship."
+    info: "CEO of sigmapulse.ch, the data science agency for ambitious companies which aim for operational excellence, I share here my learnings from my passion for Data Science and entrepreneurship."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
