@@ -4,7 +4,7 @@ layout: home
 lng_pair: id_home
 
 # image for page specific usage
-img: ":projects-heading.jpg"
+img: ":home-heading.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -40,3 +40,8 @@ img: ":projects-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 # Matthieu Saussaye
+
+Check out the [My Linkedin Page][linkedin-page] for more useful tips on how to get value from machine learning and data. If you have questions, you can meet me by [booking an apointment][calendly-page].
+
+[linkedin-page]: https://www.linkedin.com/in/matthieu-saussaye-0023a114a/
+[calendly-page]: https://calendly.com/matthieu-saussaye/30min
