@@ -261,7 +261,7 @@ To register our template files, we'll add our templates directory to Django sett
 We add some HTML to put a the option of closing the scrapping parameters on the website, on the page index.html:
 
 	<form method="post">  
-	  {% csrf_token %}  
+	  {csrf_token}  
 	    <label for="country">Country:</label>  
 	 <input type="text" id="country" name="country"><br><br>  
 	  
@@ -280,9 +280,9 @@ We add some HTML to put a the option of closing the scrapping parameters on the 
 	 <input type="submit" value="Scrape Data">  
 	</form>  
 	  
-	{% if data %}  
+	{if data}  
 	<p>Results: {{ data }}</p>  
-	{% endif %}
+	{endif}
 
 To collect the data we will create a scraping dedicated page
 
