@@ -294,7 +294,7 @@ We’ll begin with the scraping function itself, to illustrate how data will be 
 
 
 
-# Optional - Set-up the Django dashboard
+# Optional - Go further with a Celery Task Manager
 
 ![](https://miro.medium.com/v2/resize:fit:1400/0*eugOv7jnOkihFpEC.png)
 
@@ -309,3 +309,6 @@ This part is optional, but Celery could be useful to deploy if you want to print
 
 The next step would be to register our tasks with our Celery app, this is as simple as placing `@app.task` above each function.
 
+# Conclusion
+
+This little web app helped the company to save time by focusing on what create real value : the analysis of the data for market trends conclusion.
