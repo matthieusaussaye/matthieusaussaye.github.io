@@ -181,12 +181,6 @@ We will can try the function with a sample to double check its working
 
 We should receive data from 2021-01 to 2022-03 split by one month.
 
-## Scheduling our tasks with Celery:
-
-We’ll now be leveraging the task scheduling powers of Celery by leaning on the  `beat_schedule`  that comes out of the box. This allows us to register tasks with the scheduling agent for specific times.
-
-[A great reference for scheduling examples can be found in the official documentation](https://docs.celeryproject.org/en/stable/userguide/periodic-tasks.html). I’ve also included a few additional schedule examples in the  `tasks.py`  in my  [GitHub repo](https://github.com/mattdood/web_scraping_example).
-
 ## Create the interface with Django:
 
 Install django before
